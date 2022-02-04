@@ -4,7 +4,7 @@ My work on BI-VZD in semester B191 at [FIT CTU](https://fit.cvut.cz/en).
 
 ## TL;DR
 
-It ain't mutch, but it's an honest work. :thumbsup:
+It ain't much, but it's honest work. :thumbsup:
 
 ## [Seminars](seminars)
 
